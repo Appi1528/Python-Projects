@@ -1,0 +1,6 @@
+conditional statemnts
+loops - menu system
+dictionary - for store data
+
+Teacher:You can 
+Add Student , View all Student , Check result ,exit.
